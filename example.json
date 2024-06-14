@@ -1,0 +1,9 @@
+{
+    "article": "how to work with json in rust",
+    "author": "Ismael-Moreira-Kt",
+    "paragraph": [
+        {"name": "Header"},
+        {"name": "Body"},
+        {"name": "Footer"}
+    ]
+}
